@@ -6,5 +6,5 @@ The game is programmed using HTML, CSS and Javascript.\
 Here is a video of the presentation of this app:
 [Screen recording of demonstrating how to play this math game](https://youtu.be/q6GvbYiWCkE)
 
-Here is a screen shot of the app:\
+Here is a screen shot of the game:\
 ![](images/mathPic.png)
